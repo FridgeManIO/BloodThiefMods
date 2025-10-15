@@ -1,0 +1,12 @@
+{
+    "name": "Infinite Stone",
+    "name_pretty": "Infinite Stone",
+    "namespace": "fridge",
+    "version_number": "1.0.0",
+    "description": "Gives the player infinite stone",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["olvior"],
+    "tags": ["cheats"],
+    "description_rich": "It's a really cool mod that gives you infinite stone.\nAs a byproduct, it also gives infinite stone"
+}

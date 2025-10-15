@@ -1,0 +1,12 @@
+{
+    "name": "ZeroLHBlood",
+    "name_pretty": "Zero Life Harvester Blood Cost",
+    "namespace": "fridge",
+    "version_number": "1.0.0",
+    "description": "Removes 0.3 blood cost from life harvester",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["fridge"],
+    "tags": ["cheats"],
+    "description_rich": "It's a really cool mod that gives you infinite no blood cost.\nAs a byproduct, it also gives infinite no blood cost"
+}
