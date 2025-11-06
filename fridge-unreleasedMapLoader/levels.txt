@@ -1,0 +1,16 @@
+#Uncomment the file you want to load by removing '#'
+#res://scenes/levels/lavabridge.tscn
+#res://scenes/levels/jon_level.tscn
+#res://scenes/levels/underworld_entryway.tscn
+#res://scenes/levels/practice.tscn
+#res://scenes/levels/haunted_castle.tscn
+#res://scenes/levels/gym.tscn
+#res://scenes/levels/full_game_levels/drive_train/drive_train.tscn
+#res://scenes/levels/full_game_levels/beacon_arrow_fun/beacon_arrow_fun.tscn
+#res://scenes/levels/garden/speed_garden.tscn
+#res://scenes/levels/garden/garden_august_2.tscn
+#res://scenes/levels/garden/garden_golem.tscn
+#res://scenes/levels/garden/garden_august.tscn
+#res://scenes/levels/garden/gl_compat_garden.tscn
+res://scenes/levels/garden/garden.tscn
+#res://scenes/levels/garden/easy_sewer_garden1.tscn
