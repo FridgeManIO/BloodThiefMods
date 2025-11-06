@@ -5,6 +5,7 @@ func get_map_path(file)-> String:
     while true:
         var line = f.get_line()
         if line[0]!='#':
+            f.close()
             return line
 
 
