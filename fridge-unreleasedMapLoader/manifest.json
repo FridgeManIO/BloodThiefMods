@@ -1,12 +1,12 @@
 {
-  "name": "mapBakeTest",
-  "name_pretty": "Map Bake Test",
+  "name": "unreleasedMapLoader",
+  "name_pretty": "Unreleased Map Loader",
   "namespace": "fridge",
   "version_number": "1.0.0",
-  "description": "Loads custom maps as campaign maps. Replaces the ingame custom-maps.",
+  "description": "Loads unreleased maps via custom map button.",
   "dependencies": [],
   "incompatibilities": [],
   "authors": ["fridge"],
   "tags": ["ui"],
-  "description_rich": "It's a really cool mod that gives you infinite Baking.\nAs a byproduct, it also gives infinite Baking"
+  "description_rich": "It's a really cool mod that gives you infinite unreleased maps.\nAs a byproduct, it also gives copyright infringement"
 }
