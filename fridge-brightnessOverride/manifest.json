@@ -1,0 +1,12 @@
+{
+	"name": "brightnessOverride",
+	"name_pretty": "Brightness Override",
+	"namespace": "fridge",
+	"version_number": "1.0.0",
+	"description": "Forces ingame brightness outside the usual range.",
+	"dependencies": [],
+	"incompatibilities": [],
+	"authors": ["fridge"],
+	"tags": ["ui"],
+	"description_rich": "It's a really cool mod that gives you infinite brightness.\nAs a byproduct, it also burns out your eyeballs."
+}
