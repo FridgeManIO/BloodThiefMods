@@ -1,5 +1,5 @@
 # BloodThiefMods
-Collection of mods for bloodthief full release.
+Collection of small mods for bloodthief full release.
 
 Load them using the bloodthief mod loader by Olivor [https://github.com/olvior/bloodthief-mod-loader].
 
