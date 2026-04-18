@@ -1,0 +1,12 @@
+{
+    "name": "Prop1Warning",
+    "name_pretty": "Property 1 Warning Utility",
+    "namespace": "fridge",
+    "version_number": "1.0.0",
+    "description": "Displays warning on UI if property1 found in your map.",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["fridge"],
+    "tags": ["ui"],
+    "description_rich": "It's a really cool mod that gives you infinite prop1.\nAs a byproduct, it also gives infinite prop1"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "noclip",
+    "name_pretty": "NoClip",
+    "namespace": "fridge",
+    "version_number": "1.0.0",
+    "description": "Toggle noclip.",
+    "dependencies": [],
+    "incompatibilities": [],
+    "authors": ["fridge"],
+    "tags": ["cheat"],
+    "description_rich": "It's a really cool mod that gives you infinite noclip.\nAs a byproduct, it also gives infinite no collisions."
+}
